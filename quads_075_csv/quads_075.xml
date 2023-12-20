@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="http://www.fgdc.gov/metadata/fgdc-std-001-1998.xsd">
+   <idinfo>
+      <citation>
+         <citeinfo>
+            <origin>Earth Data Analysis Center</origin>
+            <pubdate>20090318</pubdate>
+            <title>New Mexico Quad Grid for 7.5' USGS Quads</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+               <pubplace>Albuquerque, NM</pubplace>
+               <publish>Earth Data Analysis Center</publish>
+            </pubinfo>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/services/ogc/wms?SERVICE=wms&amp;REQUEST=GetCapabilities&amp;VERSION=1.1.1</onlink>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/services/ogc/wfs?SERVICE=wfs&amp;REQUEST=GetCapabilities&amp;VERSION=1.0.0</onlink>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/quads_075.derived.shp</onlink>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/quads_075.original.zip</onlink>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/quads_075.derived.gml</onlink>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/quads_075.derived.kml</onlink>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/quads_075.derived.geojson</onlink>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/quads_075.derived.json</onlink>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/quads_075.derived.csv</onlink>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/quads_075.derived.xls</onlink>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/metadata/FGDC-STD-001-1998.xml</onlink>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/metadata/FGDC-STD-001-1998.html</onlink>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/metadata/ISO-19115:2003.xml</onlink>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/metadata/ISO-19115:2003.html</onlink>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/metadata/ISO-19119:WMS.xml</onlink>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/metadata/ISO-19119:WFS.xml</onlink>
+            <onlink>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/metadata/ISO-19110.xml</onlink>
+         </citeinfo>
+      </citation>
+      <descript>
+         <abstract>This dataset shows the USGS quadrangles for the State of New Mexico. This shapefile is based on the 7.5 minute Index map.</abstract>
+         <purpose>This data set was created to digitally represent the USGS quadrangles from the grid of 7.5 minute quads in New Mexico. These data are typically used as base data for other coverages. The data are intended for use as a general reference as to the extent and boundaries of the quadrangle coverage for New Mexico.</purpose>
+      </descript>
+      <timeperd>
+         <timeinfo>
+            <sngdate>
+               <caldate>20070221</caldate>
+            </sngdate>
+         </timeinfo>
+         <current>publication date</current>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>As needed</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc>-109.25</westbc>
+            <eastbc>-102.875</eastbc>
+            <northbc>37.125</northbc>
+            <southbc>31.25</southbc>
+         </bounding>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>ISO 19115 Topic Categories</themekt>
+            <themekey>boundaries</themekey>
+         </theme>
+         <theme>
+            <themekt>none</themekt>
+            <themekey>U.S. Geological Survey Quads</themekey>
+            <themekey>7.5 ' Quadrangle Grid</themekey>
+         </theme>
+         <place>
+            <placekt>Spatial Reference System Identifiers</placekt>
+            <placekey>EPSG:4269</placekey>
+            <placekey>EPSG:7019</placekey>
+         </place>
+         <place>
+            <placekt>none</placekt>
+            <placekey>New Mexico</placekey>
+            <placekey>Arizona</placekey>
+            <placekey>Colorado</placekey>
+         </place>
+      </keywords>
+      <accconst>None</accconst>
+      <useconst>None</useconst>
+      <ptcontac>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>Earth Data Analysis Center</cntorg>
+            </cntorgp>
+            <cntpos>RGIS Clearinghouse Manager</cntpos>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <address>MSC01 1110</address>
+               <address>1 University of New Mexico</address>
+               <address>University of New Mexico</address>
+               <city>Albuquerque</city>
+               <state>NM</state>
+               <postal>87131-0001</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>505-277-3622</cntvoice>
+            <cntfax>505-277-3614</cntfax>
+            <cntemail>clearinghouse@edac.unm.edu</cntemail>
+         </cntinfo>
+      </ptcontac>
+      <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.2.0.1324</native>
+   </idinfo>
+   <dataqual>
+      <attracc>
+         <attraccr>The Quadrangle names are updated as needed.</attraccr>
+      </attracc>
+      <logic>The grid was corrected for naming conventions.</logic>
+      <complete>Data completeness reflects the content of the source file.</complete>
+      <posacc>
+         <horizpa>
+            <horizpar>Unknown.</horizpar>
+         </horizpa>
+      </posacc>
+      <lineage>
+         <srcinfo>
+            <srccite>
+               <citeinfo>
+                  <origin>Bohannon-Huston, Inc.</origin>
+                  <pubdate>Unknown</pubdate>
+                  <title>doqq_07</title>
+                  <geoform>vector digital data</geoform>
+                  <pubinfo>
+                     <pubplace>Albuquerque, NM</pubplace>
+                     <publish>Bohannon-Huston, Inc.</publish>
+                  </pubinfo>
+               </citeinfo>
+            </srccite>
+            <srcscale>24000</srcscale>
+            <typesrc>digital tape media</typesrc>
+            <srctime>
+               <timeinfo>
+                  <sngdate>
+                     <caldate>20070101</caldate>
+                  </sngdate>
+               </timeinfo>
+               <srccurr>publication date</srccurr>
+            </srctime>
+            <srccitea>USGS</srccitea>
+            <srccontr>The USGS 24K grid was used as a base for the quarter quad index.</srccontr>
+         </srcinfo>
+         <procstep>
+            <procdesc>The 7.5 minute index was revised to show the quarter quads.</procdesc>
+            <procdate>Unknown</procdate>
+         </procstep>
+         <procstep>
+            <procdesc>Additional attributes added.</procdesc>
+            <procdate>20070219</procdate>
+         </procstep>
+         <procstep>
+            <procdesc>The quarter quad index was dissolved on the name to return to the USGS quad index.</procdesc>
+            <procdate>20070221</procdate>
+         </procstep>
+      </lineage>
+   </dataqual>
+   <spdoinfo>
+      <indspref>United States</indspref>
+      <direct>Vector</direct>
+      <ptvctinf>
+         <sdtsterm>
+            <sdtstype>G-polygon</sdtstype>
+            <ptvctcnt>8808</ptvctcnt>
+         </sdtsterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <geograph>
+            <latres>0.00000001</latres>
+            <longres>0.00000001</longres>
+            <geogunit>Decimal degrees</geogunit>
+         </geograph>
+         <geodetic>
+                <horizdn>North American Datum of 1983</horizdn>
+                <ellips>Geodetic Reference System 80</ellips>
+                <semiaxis>6378137.000000</semiaxis>
+                <denflat>298.257222</denflat>
+            </geodetic>
+      </horizsys>
+   </spref>
+   <eainfo>
+      <detailed>
+         <enttyp>
+            <enttypl>doqq_07</enttypl>
+            <enttypd>quad map index</enttypd>
+            <enttypds>EDAC</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl>FID</attrlabl>
+            <attrdef>Internal feature number.</attrdef>
+            <attrdefs>ESRI</attrdefs>
+            <attrdomv>
+               <udom>Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>Shape</attrlabl>
+            <attrdef>Feature geometry.</attrdef>
+            <attrdefs>ESRI</attrdefs>
+            <attrdomv>
+               <udom>Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>NAME</attrlabl>
+            <attrdef>USGS Quadrangle Name</attrdef>
+            <attrdefs>USGS</attrdefs>
+            <attrdomv>
+               <udom>USGS Quadrangle Name</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>LAT</attrlabl>
+            <attrdef>Latitude</attrdef>
+            <attrdefs>USGS</attrdefs>
+            <attrdomv>
+               <udom>Latitude</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>LONG</attrlabl>
+            <attrdef>Longitude</attrdef>
+            <attrdefs>USGS</attrdefs>
+            <attrdomv>
+               <udom>Longitude</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>MRC</attrlabl>
+            <attrdef>Map Reference Code</attrdef>
+            <attrdefs>USGS</attrdefs>
+            <attrdomv>
+               <udom>Map Reference Code</udom>
+            </attrdomv>
+         </attr>
+      </detailed>
+      <overview>
+         <eaover>The quad names were verified to the USGS list.</eaover>
+         <eadetcit>None</eadetcit>
+      </overview>
+   </eainfo>
+   <distinfo>
+      <distrib>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>Earth Data Analysis Center</cntorg>
+            </cntorgp>
+            <cntpos>Clearinghouse Manager</cntpos>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <address>MSC01 1110</address>
+               <address>1 University of New Mexico</address>
+               <city>Albuquerque</city>
+               <state>NM</state>
+               <postal>87131-0001</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>505-277-3622 ext. 230</cntvoice>
+            <cntfax>505-277-3614</cntfax>
+            <cntemail>clearinghouse@edac.unm.edu</cntemail>
+            <hours>0800 - 1700 MT, M-F -7 hours GMT</hours>
+         </cntinfo>
+      </distrib>
+      <resdesc>Downloadable Data</resdesc>
+      <distliab>The material on this site is made available as a public service. Maps and data are to be used for reference purposes only and the Earth Data Analysis Center (EDAC), Resource Geographic Information System (RGIS) and The University of New Mexico are not responsible for any inaccuracies herein contained. No responsibility is assumed for damages or other liabilities due to the accuracy, availability, use or misuse of the information herein provided. Unless otherwise indicated in the documentation (metadata) for individual data sets, information on this site is public domain and may be copied without permission; citation of the source is appreciated.</distliab>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <formname>ZIP</formname>
+               <transize>1</transize>
+            </digtinfo>
+            <digtopt>
+               <onlinopt>
+                  <computer>
+                     <networka>
+                        <networkr>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/quads_075.original.zip</networkr>
+                     </networka>
+                  </computer>
+                  <accinstr>Download from Resource Geographic Information System (RGIS) at http://rgis.unm.edu.</accinstr>
+               </onlinopt>
+            </digtopt>
+         </digform>
+         <fees>None. The files are available to download from Resource Geographic Information System (RGIS) (http://rgis.unm.edu).</fees>
+         <ordering>Contact Earth Data Analysis Center at clearinghouse@edac.unm.edu</ordering>
+      </stdorder>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <formname>ESRI Shapefile (shp)</formname>
+               <transize>5</transize>
+            </digtinfo>
+            <digtopt>
+               <onlinopt>
+                  <computer>
+                     <networka>
+                        <networkr>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/quads_075.derived.shp</networkr>
+                     </networka>
+                  </computer>
+                  <accinstr>Download from Resource Geographic Information System (RGIS) at http://rgis.unm.edu.</accinstr>
+               </onlinopt>
+            </digtopt>
+         </digform>
+         <fees>None. The files are available to download from Resource Geographic Information System (RGIS) (http://rgis.unm.edu).</fees>
+         <ordering>Contact Earth Data Analysis Center at clearinghouse@edac.unm.edu</ordering>
+      </stdorder>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <formname>GML</formname>
+               <transize>5</transize>
+            </digtinfo>
+            <digtopt>
+               <onlinopt>
+                  <computer>
+                     <networka>
+                        <networkr>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/quads_075.derived.gml</networkr>
+                     </networka>
+                  </computer>
+                  <accinstr>Download from Resource Geographic Information System (RGIS) at http://rgis.unm.edu.</accinstr>
+               </onlinopt>
+            </digtopt>
+         </digform>
+         <fees>None. The files are available to download from Resource Geographic Information System (RGIS) (http://rgis.unm.edu).</fees>
+         <ordering>Contact Earth Data Analysis Center at clearinghouse@edac.unm.edu</ordering>
+      </stdorder>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <formname>KML</formname>
+               <transize>5</transize>
+            </digtinfo>
+            <digtopt>
+               <onlinopt>
+                  <computer>
+                     <networka>
+                        <networkr>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/quads_075.derived.kml</networkr>
+                     </networka>
+                  </computer>
+                  <accinstr>Download from Resource Geographic Information System (RGIS) at http://rgis.unm.edu.</accinstr>
+               </onlinopt>
+            </digtopt>
+         </digform>
+         <fees>None. The files are available to download from Resource Geographic Information System (RGIS) (http://rgis.unm.edu).</fees>
+         <ordering>Contact Earth Data Analysis Center at clearinghouse@edac.unm.edu</ordering>
+      </stdorder>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <formname>GeoJSON</formname>
+               <transize>5</transize>
+            </digtinfo>
+            <digtopt>
+               <onlinopt>
+                  <computer>
+                     <networka>
+                        <networkr>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/quads_075.derived.geojson</networkr>
+                     </networka>
+                  </computer>
+                  <accinstr>Download from Resource Geographic Information System (RGIS) at http://rgis.unm.edu.</accinstr>
+               </onlinopt>
+            </digtopt>
+         </digform>
+         <fees>None. The files are available to download from Resource Geographic Information System (RGIS) (http://rgis.unm.edu).</fees>
+         <ordering>Contact Earth Data Analysis Center at clearinghouse@edac.unm.edu</ordering>
+      </stdorder>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <formname>JSON</formname>
+               <transize>5</transize>
+            </digtinfo>
+            <digtopt>
+               <onlinopt>
+                  <computer>
+                     <networka>
+                        <networkr>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/quads_075.derived.json</networkr>
+                     </networka>
+                  </computer>
+                  <accinstr>Download from Resource Geographic Information System (RGIS) at http://rgis.unm.edu.</accinstr>
+               </onlinopt>
+            </digtopt>
+         </digform>
+         <fees>None. The files are available to download from Resource Geographic Information System (RGIS) (http://rgis.unm.edu).</fees>
+         <ordering>Contact Earth Data Analysis Center at clearinghouse@edac.unm.edu</ordering>
+      </stdorder>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <formname>Comma Separated Values (csv)</formname>
+               <transize>5</transize>
+            </digtinfo>
+            <digtopt>
+               <onlinopt>
+                  <computer>
+                     <networka>
+                        <networkr>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/quads_075.derived.csv</networkr>
+                     </networka>
+                  </computer>
+                  <accinstr>Download from Resource Geographic Information System (RGIS) at http://rgis.unm.edu.</accinstr>
+               </onlinopt>
+            </digtopt>
+         </digform>
+         <fees>None. The files are available to download from Resource Geographic Information System (RGIS) (http://rgis.unm.edu).</fees>
+         <ordering>Contact Earth Data Analysis Center at clearinghouse@edac.unm.edu</ordering>
+      </stdorder>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <formname>MS Excel format (xls)</formname>
+               <transize>5</transize>
+            </digtinfo>
+            <digtopt>
+               <onlinopt>
+                  <computer>
+                     <networka>
+                        <networkr>https://gstore.unm.edu/apps/rgisarchive/datasets/4227f079-be63-4022-85f9-8b10c348447f/quads_075.derived.xls</networkr>
+                     </networka>
+                  </computer>
+                  <accinstr>Download from Resource Geographic Information System (RGIS) at http://rgis.unm.edu.</accinstr>
+               </onlinopt>
+            </digtopt>
+         </digform>
+         <fees>None. The files are available to download from Resource Geographic Information System (RGIS) (http://rgis.unm.edu).</fees>
+         <ordering>Contact Earth Data Analysis Center at clearinghouse@edac.unm.edu</ordering>
+      </stdorder>
+      <custom>Contact Earth Data Analysis Center at clearinghouse@edac.unm.edu</custom>
+      <techpreq>Adequate computer capability is the only technical prerequisite for viewing data in digital form.</techpreq>
+   </distinfo>
+   <metainfo>
+      <metd>20220423</metd>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>Earth Data Analysis Center</cntorg>
+            </cntorgp>
+            <cntpos>Clearinghouse Manager</cntpos>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <address>MSC01 1110</address>
+               <address>1 University of New Mexico</address>
+               <city>Albuquerque</city>
+               <state>NM</state>
+               <postal>87131-0001</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>505-277-3622 ext. 230</cntvoice>
+            <cntfax>505-277-3614</cntfax>
+            <cntemail>clearinghouse@edac.unm.edu</cntemail>
+            <hours>0800 - 1700 MT, M-F -7 hours GMT</hours>
+         </cntinfo>
+      </metc>
+      <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv>FGDC-STD-001-1998</metstdv>
+      <mettc>local time</mettc>
+   </metainfo>
+</metadata>
